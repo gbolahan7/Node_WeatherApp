@@ -1,0 +1,14 @@
+{
+  "name": "node_weatherapp",
+  "version": "1.0.0",
+  "description": "Weather application to view different locations weather conditions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abass",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
